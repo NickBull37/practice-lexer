@@ -22,7 +22,7 @@ public static bool IsNameEmpty(string name)
 var isNameEmpty = IsNameEmpty(name);
 ";
 
-var tokens = Lexer.Tokenize(testInput2);
+var tokens = Lexer.Tokenize(testInput);
 
 foreach (var token in tokens)
 {
