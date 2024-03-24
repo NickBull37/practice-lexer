@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\PracticeLexer\\PracticeLexer.csproj",
+      "projectUniqueName": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\PracticeLexer.csproj",
       "projectName": "PracticeLexer",
-      "projectPath": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\PracticeLexer\\PracticeLexer.csproj",
+      "projectPath": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\PracticeLexer.csproj",
       "packagesPath": "C:\\Users\\nbuli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\PracticeLexer\\obj\\",
+      "outputPath": "C:\\Users\\nbuli\\source\\repos\\practice-lexer\\PracticeLexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nbuli\\AppData\\Roaming\\NuGet\\NuGet.Config",

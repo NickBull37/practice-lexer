@@ -1,0 +1,15 @@
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\bin\Debug\net6.0\PracticeLexer.exe
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\bin\Debug\net6.0\PracticeLexer.deps.json
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\bin\Debug\net6.0\PracticeLexer.runtimeconfig.json
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\bin\Debug\net6.0\PracticeLexer.dll
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\bin\Debug\net6.0\PracticeLexer.pdb
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.csproj.AssemblyReference.cache
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.AssemblyInfoInputs.cache
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.AssemblyInfo.cs
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.csproj.CoreCompileInputs.cache
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.dll
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\refint\PracticeLexer.dll
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.pdb
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\PracticeLexer.genruntimeconfig.cache
+C:\Users\nbuli\source\repos\practice-lexer\PracticeLexer\obj\Debug\net6.0\ref\PracticeLexer.dll

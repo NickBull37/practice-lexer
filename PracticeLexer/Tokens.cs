@@ -1,0 +1,30 @@
+﻿namespace PracticeLexer
+{
+    public enum Tokens
+    {
+        Boolean,
+        CarriageReturn,
+        CloseCurly,
+        CloseParen,
+        Comma,
+        Eof,
+        Equal,
+        False,
+        Identifier,
+        IfStatement,
+        Illegal,
+        Integer,
+        NewLine,
+        OpenCurly,
+        OpenParen,
+        Period,
+        Plus,
+        PublicModifier,
+        Return,
+        Semicolon,
+        StaticModifier,
+        String,
+        True,
+        Variable
+    }
+}
